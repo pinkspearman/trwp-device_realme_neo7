@@ -8,7 +8,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Neo7.mk
 
-PRODUCT_RELEASE_CONFIG := trunk
-
 COMMON_LUNCH_CHOICES := \
-    twrp_Neo7-trunk-eng
+    twrp_Neo7-eng
