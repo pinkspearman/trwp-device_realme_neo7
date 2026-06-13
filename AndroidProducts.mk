@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Neo7.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ossi-eng
+    twrp_RMX5060-eng
