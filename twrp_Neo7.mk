@@ -17,7 +17,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/oplus/ossi/device.mk)
 
 PRODUCT_DEVICE := ossi
-PRODUCT_NAME := twrp_Neo7
+PRODUCT_NAME := twrp_RMX5060
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX5060
 PRODUCT_MANUFACTURER := realme
