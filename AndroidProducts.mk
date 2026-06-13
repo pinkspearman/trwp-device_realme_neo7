@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_Neo7.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_Neo7-eng
+    twrp_ossi-eng
