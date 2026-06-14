@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Neo7.mk
+    $(LOCAL_DIR)/omni_ossi.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ossi-eng
+    omni_ossi-eng
